@@ -19,7 +19,7 @@ To familiarise users with SuPy urban climate modelling and to demonstrate the fu
 Python 101 before SuPy
 ----------------------
 
-Admittedly, this header is somewhat misleading: given the enormity of Python, it's more challenging to get this section *correct* than coding SuPy per se. As such, here a collection of data analysis oriented links to useful Python resources is provided to help novices start using Python and **then** SuPy.
+To use SuPY you will need to use Python. Here we provide some starting instructions who are not familiar with Python. Admittedly, this header is somewhat misleading: given the enormity of Python, it's more challenging to get this section *correct* than coding SuPy per se. Here we provie some data analysis oriented links to useful Python resources to help novices start using Python and **then** SuPy.
 
 - `The gist of Python <https://medium.com/@louwjlabuschagne/the-gist-of-python-ff5cc05c3318>`_: a quick introductory blog that covers Python basics for data analysis.
 
@@ -27,7 +27,7 @@ Admittedly, this header is somewhat misleading: given the enormity of Python, it
 
   - Installation
 
-    Jupyter notebooks can be installed with pip on any desktop/server system and open .ipynb notebook files locally:
+    Jupyter notebooks can be installed with pip (once pytthon is installed) on any desktop/server system and open .ipynb notebook files locally:
 
       .. code-block:: shell
 
